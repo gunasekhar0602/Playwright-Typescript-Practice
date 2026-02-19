@@ -1,0 +1,6 @@
+testName,email,password,expected
+Valid login, pavano;@abc.com,test@123,success
+Invalid login, aaaanol@abc.com",te@123,failure
+
+
+
